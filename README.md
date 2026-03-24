@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This repository (soon) contains materials for the MSc/PhD course *Critical Issues in Information Systems Research: Large Language Models*, which will be lectured at Aalto University during spring 2026. 
+This repository (soon) contains materials for the MSc/PhD course *Critical Issues in Information Systems Research: Large Language Models*, which will be lectured at Aalto University during spring 2026. The course is lectured by [Raghava Rao Mukkamala](<https://www.cbs.dk/en/research/departments/department-digitalisation/raghava-rao-mukkamala>) and [Sippo Rossi](<https://www.hanken.fi/en/person/sippo-rossi>). 
 
 
 ## Course description
@@ -13,8 +13,8 @@ This is a highly interactive course, where the emphasis is on reading the requir
 
 ## Schedule
 In-person lecture, exercise and paper discussion sessions on:
-* 19.5, (Discussing foundational papers [[1]](#1), [[2]](#2))
-* 20.5, (Discussing forward-looking papers [[3]](#3), [[4]](#4))
+* 20.5, (Discussing foundational papers [[1]](#1), [[2]](#2))
+* 21.5, (Discussing forward-looking papers [[3]](#3), [[4]](#4))
 
 Project presentations
 * 4.6 - 5.6 
