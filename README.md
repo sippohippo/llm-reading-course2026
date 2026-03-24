@@ -4,11 +4,12 @@
 
 This repository (soon) contains materials for the MSc/PhD course *Critical Issues in Information Systems Research: Large Language Models*, which will be lectured at Aalto University during spring 2026. 
 
+
 ## Course description
 
 Due to the rapid technological developments in artificial intelligence during the past three years, an increasing number of researchers from different fields are pursuing research directly or indirectly related to generative AI and large language models. However, less emphasis has been placed on building a rigorous foundation by reading seminal works, which have mainly appeared in leading machine learning conferences (and arXiv). To bridge this gap, this course provides a starting point to reading, understanding and following technical AI literature. More specifically, the course covers papers such as the one that introduced GPT-3 and training language models with reinforcement learning with human feedback. 
 
-This is a highly interactive course, where the emphasis is on reading the required papers in advance before the lectures, in order to be able to discuss the topics with the lecturer and peers. Participants will also get to write and present a research proposal, which ideally can be used as a basis for a thesis or publication. 
+This is a highly interactive course, where the emphasis is on reading the required papers in advance before the lectures, in order to be able to discuss the topics with the lecturer and peers. Be prepared to be asked to comment on various aspects of the papers throughout each session. Participants will also get to write and present a research proposal, which ideally can be used as a basis for a thesis or publication. 
 
 ## Schedule
 In-person lecture, exercise and paper discussion sessions on:
@@ -58,6 +59,8 @@ Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., ...
 Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency(pp. 610-623). <https://doi.org/10.1145/3442188.3445922>
 
 ### Other materials
+
+If you do not have a strong background in machine learning and large language models, the following materials should be read/watched before the course begins. Participants are assumed to have this knowledge by the time they attend the course.
 
 [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY), a great video explaining how GPT-models approximately work.
 
