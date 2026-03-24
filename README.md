@@ -42,20 +42,20 @@ There are no formal prerequisites for this course, but having completed any intr
 <a id="1">[1]</a> 
 Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Language models are few-shot learners. Advances in neural information processing systems, 33, 1877-1901. [Link](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html)
 
-<a id="1">[2]</a> 
+<a id="2">[2]</a> 
 Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., ... & Lowe, R. (2022). Training language models to follow instructions with human feedback. Advances in neural information processing systems, 35, 27730-27744. [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
 
-<a id="1">[3]</a> 
+<a id="3">[3]</a> 
 Pan, S., Luo, L., Wang, Y., Chen, C., Wang, J., & Wu, X. (2024). Unifying large language models and knowledge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering, 36(7), 3580-3599. <https://doi.org/10.1109/TKDE.2024.3352100>
 
-<a id="1">[4]</a> 
+<a id="4">[4]</a> 
 Rabanser, S., Kapoor, S., Kirgis, P., Liu, K., Utpala, S., & Narayanan, A. (2026). Towards a science of AI agent reliability. arXiv preprint arXiv:2602.16666. <https://doi.org/10.48550/arXiv.2602.16666>
 
 ### Recommended
-<a id="1">[5]</a> 
+<a id="5">[5]</a> 
 Bommasani, R., Hudson, D. A., Adeli, E., Altman, R., Arora, S., von Arx, S., ... & Liang, P. (2021). On the opportunities and risks of foundation models. arXiv preprint arXiv:2108.07258. <https://doi.org/10.48550/arXiv.2108.07258>
 
-<a id="1">[6]</a> 
+<a id="6">[6]</a> 
 Bender, E. M., Gebru, T., McMillan-Major, A., & Shmitchell, S. (2021, March). On the dangers of stochastic parrots: Can language models be too big?🦜. In Proceedings of the 2021 ACM conference on fairness, accountability, and transparency(pp. 610-623). <https://doi.org/10.1145/3442188.3445922>
 
 ### Other materials
