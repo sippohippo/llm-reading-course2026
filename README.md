@@ -6,20 +6,20 @@ This repository (soon) contains materials for the MSc/PhD course *Critical Issue
 
 ## Course description
 
-Due to the rapid technological developments in artificial intelligence during the past three years, an increasing number of researchers from different fields are pursuing research directly or indirectly related to generative AI and large language models. However, less emphasis has been placed on building a rigorous foundation by reading seminal works, which have mainly appeared in leading machine learning conferences (and arXiv). To bridge this gap, this course provides a starting point to reading, understanding and following technical AI literature. More specifically, the course covers papers such as the ones that introduced GPT-3 and Deepseek-r1. 
+Due to the rapid technological developments in artificial intelligence during the past three years, an increasing number of researchers from different fields are pursuing research directly or indirectly related to generative AI and large language models. However, less emphasis has been placed on building a rigorous foundation by reading seminal works, which have mainly appeared in leading machine learning conferences (and arXiv). To bridge this gap, this course provides a starting point to reading, understanding and following technical AI literature. More specifically, the course covers papers such as the one that introduced GPT-3 and training language models with reinforcement learning with human feedback. 
 
 This is a highly interactive course, where the emphasis is on reading the required papers in advance before the lectures, in order to be able to discuss the topics with the lecturer and peers. Participants will also get to write and present a research proposal, which ideally can be used as a basis for a thesis or publication. 
 
 ## Schedule
 In-person lecture, exercise and paper discussion sessions on:
-* 19.5, (Discussing papers [[1]](#1), [[2]](#2))
-* 20.5, (Discussing papers [[3]](#3), [[4]](#4))
+* 19.5, (Discussing foundational papers [[1]](#1), [[2]](#2))
+* 20.5, (Discussing forward-looking papers [[3]](#3), [[4]](#4))
 
 Project presentations
-* 8.6 
+* 4.6 - 5.6 
 
 Deadline for submitting the written component of the final project:
-* 15.6, 11.59
+* 14.6, 11.59pm
 
 ## Learning goals
 * Understanding and being able to explain the principles of how reinforcement learning, generative AI and large language models work
@@ -45,12 +45,10 @@ Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & 
 Ouyang, L., Wu, J., Jiang, X., Almeida, D., Wainwright, C., Mishkin, P., ... & Lowe, R. (2022). Training language models to follow instructions with human feedback. Advances in neural information processing systems, 35, 27730-27744. [Link](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
 
 <a id="1">[3]</a> 
-Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., ... & Scialom, T. (2023). Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288. 
-<https://doi.org/10.48550/arXiv.2307.09288>
+Pan, S., Luo, L., Wang, Y., Chen, C., Wang, J., & Wu, X. (2024). Unifying large language models and knowledge graphs: A roadmap. IEEE Transactions on Knowledge and Data Engineering, 36(7), 3580-3599. <https://doi.org/10.1109/TKDE.2024.3352100>
 
 <a id="1">[4]</a> 
-Guo, D., Yang, D., Zhang, H., Song, J., Zhang, R., Xu, R., ... & He, Y. (2025). Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning. arXiv preprint arXiv:2501.12948.
-<https://doi.org/10.48550/arXiv.2501.12948>
+Rabanser, S., Kapoor, S., Kirgis, P., Liu, K., Utpala, S., & Narayanan, A. (2026). Towards a science of AI agent reliability. arXiv preprint arXiv:2602.16666. <https://doi.org/10.48550/arXiv.2602.16666>
 
 ### Recommended
 <a id="1">[5]</a> 
