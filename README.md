@@ -34,7 +34,7 @@ Deadline for submitting the written component of the final project:
 * 20% pen and paper quiz on key topics
 * 60% final project (research plan & outline for a conference paper OR MSc thesis)
 
-[^1] Active participation requires having read the papers and being able to discuss them during class. 5% is awarded per paper discussed.
+[^1]: Active participation requires having read the papers and being able to discuss them during class. 5% is awarded per paper discussed.
 
 ## Prerequisites 
 There are no formal prerequisites for this course, but having completed any introductory machine learning and deep learning courses gives a significant advantage. While this course contains no programming assignments, conceptually the topics are easier to understand with previous hands-on experience.
