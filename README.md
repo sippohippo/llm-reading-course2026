@@ -11,6 +11,8 @@ Due to the rapid technological developments in artificial intelligence during th
 
 This is a highly interactive course, where the emphasis is on reading the required papers in advance before the lectures, in order to be able to discuss the topics with the lecturer and peers. Be prepared to be asked to comment on various aspects of the papers throughout each session. Participants will also get to write and present a research proposal, which ideally can be used as a basis for a thesis or publication. 
 
+Participants are expected to be present during the lectures. To foster engagement, the sessions are intended to be deviceless, and thus printed or handwritten notes are to be used.
+
 ## Schedule
 In-person lecture, exercise and paper discussion sessions on:
 * 20.5, (Discussing foundational papers [[1]](#1), [[2]](#2))
@@ -28,9 +30,11 @@ Deadline for submitting the written component of the final project:
 * Knowing where and how to follow the development of AI research
 
 ## Evaluation
-* 20% active participation during sessions
+* 20% active participation during sessions[^1]
 * 20% pen and paper quiz on key topics
 * 60% final project (research plan & outline for a conference paper OR MSc thesis)
+
+[^1] Active participation requires having read the papers and being able to discuss them during class. 5% is awarded per paper discussed.
 
 ## Prerequisites 
 There are no formal prerequisites for this course, but having completed any introductory machine learning and deep learning courses gives a significant advantage. While this course contains no programming assignments, conceptually the topics are easier to understand with previous hands-on experience.
