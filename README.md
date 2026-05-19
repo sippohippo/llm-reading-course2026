@@ -18,11 +18,12 @@ In-person lecture, exercise and paper discussion sessions on:
 * 20.5, (Discussing foundational papers [[1]](#1), [[2]](#2))
 * 21.5, (Discussing forward-looking papers [[3]](#3), [[4]](#4))
 
+Deadline for submitting the written component of the final project:
+* 2.6, 11.59pm
+
 Project presentations
 * 4.6 - 5.6 
 
-Deadline for submitting the written component of the final project:
-* 14.6, 11.59pm
 
 ## Learning goals
 * Understanding and being able to explain the principles of how reinforcement learning, generative AI and large language models work
@@ -35,6 +36,14 @@ Deadline for submitting the written component of the final project:
 * 60% final project (research plan & outline for a conference paper OR MSc thesis)
 
 [^1]: Active participation requires having read the papers and being able to discuss them during class. 5% is awarded per paper discussed.
+
+
+## Project description
+* A research proposal either for a conference paper or MSc thesis
+* Should have a introduction with literature review, proposed research questions, methodology and a realistic plan for data collection and analysis
+* 2-3 pages, written by yourself (clear signs of AI use will be heavily penalized)
+* Minimum 5 high quality academic sources cited
+
 
 ## Prerequisites 
 There are no formal prerequisites for this course, but having completed any introductory machine learning and deep learning courses gives a significant advantage. While this course contains no programming assignments, conceptually the topics are easier to understand with previous hands-on experience.
