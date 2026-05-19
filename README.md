@@ -35,6 +35,8 @@ Project presentations
 * 20% pen and paper quiz on key topics
 * 60% final project (research plan & outline for a conference paper OR MSc thesis)
 
+Note that all components must be completed to be able to pass the course.
+
 [^1]: Active participation requires having read the papers and being able to discuss them during class. 5% is awarded per paper discussed.
 
 
@@ -43,6 +45,7 @@ Project presentations
 * Should have a introduction with literature review, proposed research questions, methodology and a realistic plan for data collection and analysis
 * 2-3 pages, written by yourself (clear signs of AI use will be heavily penalized)
 * Minimum 5 high quality academic sources cited
+* Late submissions will not be accepted!
 
 
 ## Prerequisites 
